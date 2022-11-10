@@ -515,7 +515,7 @@ packages:
       name: soar_quest
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.5.0"
+    version: "0.6.1"
   source_span:
     dependency: transitive
     description:
